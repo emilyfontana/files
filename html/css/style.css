@@ -1,0 +1,100 @@
+.input-form-operacao{ 
+
+    padding: 10px; 
+
+    background-color: #eee; 
+
+    border: solid 1px #ccc; 
+
+    width: 50px; 
+
+    outline: none; 
+
+ 
+
+} 
+
+ 
+
+.input-form-resultado{ 
+
+    padding: 10px; 
+
+    border: solid 1px #ccc; 
+
+    background-color: #fff; 
+
+    width: 100px; 
+
+    outline: none; 
+
+ 
+
+} 
+
+ 
+
+.button-operacao{ 
+
+    width: 37px; 
+
+    height: 37px; 
+
+    background-color: #fa0; 
+
+    cursor: pointer; 
+
+    color: #fff; 
+
+    font-size: 14px; 
+
+    border: none; 
+
+ 
+
+} 
+
+ 
+
+.button-operacao:hover{ 
+
+    background-color: #ff5000; 
+
+ 
+
+} 
+
+ 
+
+ 
+ 
+
+.button-resultado{ 
+
+    width: 50px; 
+
+    height: 37px; 
+
+    background-color: #fa0; 
+
+    cursor: pointer; 
+
+    color: white; 
+
+    font-size: 10px; 
+
+    border: none; 
+
+ 
+
+ 
+
+} 
+
+.button-resultado:hover{ 
+
+    background-color: #ff5000; 
+
+     
+
+} 
